@@ -1,0 +1,33 @@
+/* nusitaikome i visus emementus */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+
+.box {
+  border: 1px solid #000;
+  width: 200px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 70px;
+  padding-top: 20px;
+}
+
+article h2 {
+  margin: 10px;
+}
+
+.author {
+  color: grey;
+  font-weight: bold;
+  margin: 10px;
+}
+article p {
+  margin: 10px;
+  padding: 5px;
+  background-color: #fff;
+}
