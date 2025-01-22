@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #e4e4e4;
+}
+.box {
+  border: 1px solid #000;
+  width: 300px;
+}
+.box-padding {
+  /* padding-top: 20px;
+  padding-right: 50px;
+  padding-bottom: 35px;
+  padding-left: 10px; */
+  padding: 20px 50px 35px 10px;
+}
+.box-margin {
+  /* margin-top: 20px;
+  margin-right: 50px;
+  margin-bottom: 35px;
+  margin-left: 10px; */
+  margin: 20px 50px 35px 10px;
+}
